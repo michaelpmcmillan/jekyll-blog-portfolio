@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Docker For Devs (Windows)"
-date:   2019-10-25 13:23:15 +0100
-categories: jekyll update
+date:   2019-10-25 15:42:00 +0100
+categories: docker vscode windows
 ---
 
 ### Installation

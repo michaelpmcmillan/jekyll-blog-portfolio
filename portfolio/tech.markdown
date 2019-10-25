@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tech
-permalink: /tech/
+permalink: /portfolio/tech/
+categories: portfolio
 ---
 
 Proficient:

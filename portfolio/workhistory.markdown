@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Work History
-permalink: /workhistory/
+permalink: /portfolio/workhistory/
+categories: portfolio
 ---
 
 ### On The Beach

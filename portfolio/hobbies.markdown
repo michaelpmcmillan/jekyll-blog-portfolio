@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Hobbies
-permalink: /hobbies/
+permalink: /portfolio/hobbies/
+categories: portfolio
 ---
 
 I’m passionate about learning new skills, and improving upon those I already have. Currently, I am learning aspnet core, dotnet core, python and machine learning in my free time. I attended the M-Cubed data-science conference in 2018 to further my exposure to ML.

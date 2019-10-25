@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /portfolio/about/
+categories: portfolio
 ---
 
 A Senior Software Engineer with over 10 years’ hands-on experience developing reliable, high-performing, n-tier applications. Having mostly used the Microsoft technology stack in the aerospace sector, but also has hands on experience with Java.

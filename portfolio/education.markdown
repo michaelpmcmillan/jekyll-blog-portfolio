@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Education
-permalink: /hireme/education/
+permalink: /portfolio/education/
+categories: portfolio
 ---
 
 ### BSc (hons) Computer Science
