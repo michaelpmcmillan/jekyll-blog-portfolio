@@ -6,8 +6,11 @@ description: >-
   backend development, but is keen to branch out and become full-stack.
 baseurl: "" 
 url: "" 
-twitter_username: jekyllrb
+twitter_username: 
 github_username:  mcmillanmichael
+linkedin_username: michaelpmcmillan
 theme: minima
 plugins:
   - jekyll-feed
+
+# https://jekyllrb.com/docs/configuration/options/
