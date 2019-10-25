@@ -10,6 +10,7 @@ twitter_username:
 github_username:  mcmillanmichael
 linkedin_username: michaelpmcmillan
 theme: minima
+highlighter: rouge
 plugins:
   - jekyll-feed
 

@@ -13,6 +13,8 @@ Jekyll Website
 ## Create Website
 `gem install jekyll bundler`
 
+`gem install rouge`
+
 `cd C:\source\personal`
 
 `jekyll new jekyll-website`
