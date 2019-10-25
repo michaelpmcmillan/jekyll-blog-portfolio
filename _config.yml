@@ -8,6 +8,6 @@ baseurl: ""
 url: "" 
 twitter_username: jekyllrb
 github_username:  mcmillanmichael
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
