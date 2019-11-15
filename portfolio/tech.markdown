@@ -26,6 +26,7 @@ Linq
 TSQL
 Cypress
 Artillery
+Polly
 Javascript
 WPF/XAML with MVVM pattern
 WCF
