@@ -5,17 +5,46 @@ permalink: /portfolio/tech/
 categories: portfolio
 ---
 
-Proficient:
-   - C# .NET
-   - Agile/Scrum
-   - Entity Framework, Linq
-   - SQL Server, TSQL
-   - WPF/XAML with MVVM pattern
-   - WCF
-   - Powershell
+### Industry Knowledge
+Agile
+Scrum
+Kanban
+TDD
+SOLID
+DRY
+KISS
 
-Researching:
-   - asp.net core, razor pages
-   - javascript, bootstrap
-   - angular
-   - python
+### Technologies
+C#
+.NET
+Dotnet Core
+Web API
+Docker
+Html
+Entity Framework
+Linq
+TSQL
+Cypress
+Artillery
+Javascript
+WPF/XAML with MVVM pattern
+WCF
+Python
+Angular
+
+### Tools
+Git
+Github
+Gitlab
+TFS
+Jira
+Powershell
+Resharper
+VS code
+Visual Studio
+Postman
+SoapUI
+Fork
+ConEmu
+Swagger
+Markdown
