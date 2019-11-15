@@ -6,11 +6,11 @@ categories: docker newrelic dotnet core
 ---
 
 ### Prerequisites
-docker
-vscode
-vscode plugin: [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-already have created a dotnet core application
-already have a `Dockerfile`
+* docker
+* vscode
+* vscode plugin: [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+* already have created a dotnet core application
+* already have a `Dockerfile`
 
 ### Add the newrelic agent to the docker image
 Add these sections to your `Dockerfile`, directly after the `FROM base AS final`.
