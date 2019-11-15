@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker For Devs (Windows)"
+title:  "Easy Docker (Windows)"
 date:   2019-10-25 15:42:00 +0100
 categories: docker vscode windows
 ---
